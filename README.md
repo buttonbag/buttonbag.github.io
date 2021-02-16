@@ -5,5 +5,5 @@ The purpose of this page is to showcase all my completed github projects.
 1. revisit old tutorial projects and see it to completion.
 1. complete two simple projects and add to it.
 
-[a relative link](vanilla-banner-estimate-tool)
-[a relative link](quote-generator)
+[banner-estimate-tool](/vanilla-banner-estimate-tool)
+[quote-generator](/quote-generator)
