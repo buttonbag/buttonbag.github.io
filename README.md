@@ -4,3 +4,6 @@ The purpose of this page is to showcase all my completed github projects.
 1. Also, content first approach is a good way to get it done quickly and acts as a roadmap.
 1. revisit old tutorial projects and see it to completion.
 1. complete two simple projects and add to it.
+
+[a relative link](vanilla-banner-estimate-tool)
+[a relative link](quote-generator)
